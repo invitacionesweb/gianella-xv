@@ -397,10 +397,10 @@ audio::-webkit-media-controls-current-time-display {
 
 
 .forms p {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     padding: 10px 0 20px 0;
     margin: 0;
-    font-family: var(--font-principal);
+    font-family: var(--font-secundaria);
     color: var(--color-principal);
 }
 .information-bloque .botones {
